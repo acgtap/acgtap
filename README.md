@@ -10,9 +10,7 @@
 - ⭐ 平时大多写私有项目
 - ⚡ 脚踏星空，仰望实地
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acgtap)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acgtap)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acgtap&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **acgtap/acgtap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
